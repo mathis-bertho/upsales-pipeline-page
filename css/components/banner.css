@@ -1,0 +1,17 @@
+.banner {
+  background-color: #6B6363;
+	background-size: cover;     
+	padding: 5px;
+}
+
+.logo {
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  width:20%;
+}
+
+.line {
+  background-color: #6F94D2;
+  height: 12px;
+}

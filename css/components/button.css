@@ -1,0 +1,31 @@
+.btn-blue {
+	background-color: #6F94D2;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	width: 50%;
+	display:block;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+input {
+	width: 50%;
+	padding: 15px 20px;
+	box-sizing: border-box;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	text-align: center;
+}
+
+.link-grey {
+	color: #C0C3C3;
+}
+
+#right {
+	float: right;
+}

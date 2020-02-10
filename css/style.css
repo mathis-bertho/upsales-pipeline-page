@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700|Poppins:300,400,600,700");
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/inputs.css");
+@import url("components/container.css");
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  margin: 0px;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
